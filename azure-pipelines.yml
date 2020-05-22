@@ -15,5 +15,5 @@ steps:
 
 - script: |
     echo Add other tasks to build, test, and deploy your az400new project.
-    echo See https://vjvemula.com/yaml
+    echo See https://virtualvemula.com
   displayName: 'Run a multi-line script'

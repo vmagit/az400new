@@ -14,7 +14,7 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: |
-    echo Add other tasks to build, test, and deploy your az400new project.
+    echo Welcome to TechPleddge AZ400 Training.
     @echo off
     echo Hello World from %AGENT_NAME%.
     echo My ID is %AGENT_ID%.
@@ -25,5 +25,5 @@ steps:
     echo BUILD_SOURCESDIRECTORY contents:
     @dir %BUILD_SOURCESDIRECTORY%
     echo Over and out.
-    echo See https://virtualvemula.com
+    echo See https://www.techpledgeconsulting.com/
   displayName: 'Run a multi-line script'

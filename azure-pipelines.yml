@@ -10,11 +10,11 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, Devops world!
-  displayName: 'Run a one-line script'
+- script: echo Hello, Welcome to Azure Devops world!
+  displayName: 'Peoduction '
 
 - script: |
-    echo Welcome to TechPleddge AZ400 Training.
+    echo Welcome to TechPleddge Microsoft AZ400 Training.
     @echo off
     echo Hello World from %AGENT_NAME%.
     echo My ID is %AGENT_ID%.
@@ -26,4 +26,4 @@ steps:
     @dir %BUILD_SOURCESDIRECTORY%
     echo Over and out.
     echo See https://www.techpledgeconsulting.com/
-  displayName: 'Run a multi-line script'
+  displayName: 'UAT Enviornment'

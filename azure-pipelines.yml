@@ -25,5 +25,5 @@ steps:
     echo BUILD_SOURCESDIRECTORY contents:
     @dir %BUILD_SOURCESDIRECTORY%
     echo Over and out.
-    echo See https://www.techpledgeconsulting.com/
+    echo See https://www.sldemo.com/
   displayName: 'UAT Enviornment'

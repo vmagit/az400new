@@ -14,6 +14,6 @@ steps:
   displayName: 'Peoduction '
 
 - script: |
-    echo Welcome to TechPleddge Microsoft AZ400 Training.
+    echo Welcome Vishal Aswar.
    
   displayName: 'UAT Enviornment'

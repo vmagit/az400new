@@ -11,7 +11,7 @@ pool:
 
 steps:
 - script: echo Hello, Welcome to Azure Devops world!
-  displayName: 'Peoduction '
+  displayName: 'Production '
 
 - script: |
     echo Welcome to TechPleddge Microsoft AZ400 Training.
